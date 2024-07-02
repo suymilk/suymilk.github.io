@@ -1,0 +1,701 @@
+/*=============================== web fonts =================================*/
+@font-face {
+    font-family: 'Adobe Caslon Pro';
+    src: url('../webfonts/ACaslonPro-Bold.eot');
+    src: url('../webfonts/ACaslonPro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../webfonts/ACaslonPro-Bold.woff2') format('woff2'),
+        url('../webfonts/ACaslonPro-Bold.woff') format('woff'),
+        url('../webfonts/ACaslonPro-Bold.ttf') format('truetype'),
+        url('../webfonts/ACaslonPro-Bold.svg#ACaslonPro-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Adobe Caslon Pro';
+    src: url('../webfonts/ACaslonPro-Italic.eot');
+    src: url('../webfonts/ACaslonPro-Italic.eot?#iefix') format('embedded-opentype'),
+        url('../webfonts/ACaslonPro-Italic.woff2') format('woff2'),
+        url('../webfonts/ACaslonPro-Italic.woff') format('woff'),
+        url('../webfonts/ACaslonPro-Italic.ttf') format('truetype'),
+        url('../webfonts/ACaslonPro-Italic.svg#ACaslonPro-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Adobe Caslon Pro';
+    src: url('../webfonts/ACaslonPro-SemiboldItalic.eot');
+    src: url('../webfonts/ACaslonPro-SemiboldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../webfonts/ACaslonPro-SemiboldItalic.woff2') format('woff2'),
+        url('../webfonts/ACaslonPro-SemiboldItalic.woff') format('woff'),
+        url('../webfonts/ACaslonPro-SemiboldItalic.ttf') format('truetype'),
+        url('../webfonts/ACaslonPro-SemiboldItalic.svg#ACaslonPro-SemiboldItalic') format('svg');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Adobe Caslon Pro';
+    src: url('../webfonts/ACaslonPro-Semibold.eot');
+    src: url('../webfonts/ACaslonPro-Semibold.eot?#iefix') format('embedded-opentype'),
+        url('../webfonts/ACaslonPro-Semibold.woff2') format('woff2'),
+        url('../webfonts/ACaslonPro-Semibold.woff') format('woff'),
+        url('../webfonts/ACaslonPro-Semibold.ttf') format('truetype'),
+        url('../webfonts/ACaslonPro-Semibold.svg#ACaslonPro-Semibold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Adobe Caslon Pro';
+    src: url('../webfonts/ACaslonPro-BoldItalic.eot');
+    src: url('../webfonts/ACaslonPro-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../webfonts/ACaslonPro-BoldItalic.woff2') format('woff2'),
+        url('../webfonts/ACaslonPro-BoldItalic.woff') format('woff'),
+        url('../webfonts/ACaslonPro-BoldItalic.ttf') format('truetype'),
+        url('../webfonts/ACaslonPro-BoldItalic.svg#ACaslonPro-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Adobe Caslon Pro';
+    src: url('../webfonts/ACaslonPro-Regular.eot');
+    src: url('../webfonts/ACaslonPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../webfonts/ACaslonPro-Regular.woff2') format('woff2'),
+        url('../webfonts/ACaslonPro-Regular.woff') format('woff'),
+        url('../webfonts/ACaslonPro-Regular.ttf') format('truetype'),
+        url('../webfonts/ACaslonPro-Regular.svg#ACaslonPro-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'FreightTextPro';
+    src: url('../webfonts/FreightTextProBlack-Regular.eot');
+    src: url('../webfonts/FreightTextProBlack-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../webfonts/FreightTextProBlack-Regular.woff2') format('woff2'),
+        url('../webfonts/FreightTextProBlack-Regular.woff') format('woff'),
+        url('../webfonts/FreightTextProBlack-Regular.ttf') format('truetype'),
+        url('../webfonts/FreightTextProBlack-Regular.svg#FreightTextProBlack-Regular') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FreightTextPro';
+    src: url('../webfonts/FreightTextProBold-Regular.eot');
+    src: url('../webfonts/FreightTextProBold-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../webfonts/FreightTextProBold-Regular.woff2') format('woff2'),
+        url('../webfonts/FreightTextProBold-Regular.woff') format('woff'),
+        url('../webfonts/FreightTextProBold-Regular.ttf') format('truetype'),
+        url('../webfonts/FreightTextProBold-Regular.svg#FreightTextProBold-Regular') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FreightTextPro';
+    src: url('../webfonts/FreightTextProBold-Italic.eot');
+    src: url('../webfonts/FreightTextProBold-Italic.eot?#iefix') format('embedded-opentype'),
+        url('../webfonts/FreightTextProBold-Italic.woff2') format('woff2'),
+        url('../webfonts/FreightTextProBold-Italic.woff') format('woff'),
+        url('../webfonts/FreightTextProBold-Italic.ttf') format('truetype'),
+        url('../webfonts/FreightTextProBold-Italic.svg#FreightTextProBold-Italic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FreightTextPro';
+    src: url('../webfonts/FreightTextProBlack-Italic.eot');
+    src: url('../webfonts/FreightTextProBlack-Italic.eot?#iefix') format('embedded-opentype'),
+        url('../webfonts/FreightTextProBlack-Italic.woff2') format('woff2'),
+        url('../webfonts/FreightTextProBlack-Italic.woff') format('woff'),
+        url('../webfonts/FreightTextProBlack-Italic.ttf') format('truetype'),
+        url('../webfonts/FreightTextProBlack-Italic.svg#FreightTextProBlack-Italic') format('svg');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FreightTextPro';
+    src: url('../webfonts/FreightTextProBook-Regular.eot');
+    src: url('../webfonts/FreightTextProBook-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../webfonts/FreightTextProBook-Regular.woff2') format('woff2'),
+        url('../webfonts/FreightTextProBook-Regular.woff') format('woff'),
+        url('../webfonts/FreightTextProBook-Regular.ttf') format('truetype'),
+        url('../webfonts/FreightTextProBook-Regular.svg#FreightTextProBook-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FreightTextPro';
+    src: url('../webfonts/FreightTextProBook-Italic.eot');
+    src: url('../webfonts/FreightTextProBook-Italic.eot?#iefix') format('embedded-opentype'),
+        url('../webfonts/FreightTextProBook-Italic.woff2') format('woff2'),
+        url('../webfonts/FreightTextProBook-Italic.woff') format('woff'),
+        url('../webfonts/FreightTextProBook-Italic.ttf') format('truetype'),
+        url('../webfonts/FreightTextProBook-Italic.svg#FreightTextProBook-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FreightTextPro';
+    src: url('../webfonts/FreightTextProLight-Italic.eot');
+    src: url('../webfonts/FreightTextProLight-Italic.eot?#iefix') format('embedded-opentype'),
+        url('../webfonts/FreightTextProLight-Italic.woff2') format('woff2'),
+        url('../webfonts/FreightTextProLight-Italic.woff') format('woff'),
+        url('../webfonts/FreightTextProLight-Italic.ttf') format('truetype'),
+        url('../webfonts/FreightTextProLight-Italic.svg#FreightTextProLight-Italic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FreightTextPro';
+    src: url('../webfonts/FreightTextProSemibold-Italic.eot');
+    src: url('../webfonts/FreightTextProSemibold-Italic.eot?#iefix') format('embedded-opentype'),
+        url('../webfonts/FreightTextProSemibold-Italic.woff2') format('woff2'),
+        url('../webfonts/FreightTextProSemibold-Italic.woff') format('woff'),
+        url('../webfonts/FreightTextProSemibold-Italic.ttf') format('truetype'),
+        url('../webfonts/FreightTextProSemibold-Italic.svg#FreightTextProSemibold-Italic') format('svg');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FreightTextPro';
+    src: url('../webfonts/FreightTextProSemibold-Regular.eot');
+    src: url('../webfonts/FreightTextProSemibold-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../webfonts/FreightTextProSemibold-Regular.woff2') format('woff2'),
+        url('../webfonts/FreightTextProSemibold-Regular.woff') format('woff'),
+        url('../webfonts/FreightTextProSemibold-Regular.ttf') format('truetype'),
+        url('../webfonts/FreightTextProSemibold-Regular.svg#FreightTextProSemibold-Regular') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FreightTextPro';
+    src: url('../webfonts/FreightTextProMedium-Regular.eot');
+    src: url('../webfonts/FreightTextProMedium-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../webfonts/FreightTextProMedium-Regular.woff2') format('woff2'),
+        url('../webfonts/FreightTextProMedium-Regular.woff') format('woff'),
+        url('../webfonts/FreightTextProMedium-Regular.ttf') format('truetype'),
+        url('../webfonts/FreightTextProMedium-Regular.svg#FreightTextProMedium-Regular') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FreightTextPro';
+    src: url('../webfonts/FreightTextProMedium-Italic.eot');
+    src: url('../webfonts/FreightTextProMedium-Italic.eot?#iefix') format('embedded-opentype'),
+        url('../webfonts/FreightTextProMedium-Italic.woff2') format('woff2'),
+        url('../webfonts/FreightTextProMedium-Italic.woff') format('woff'),
+        url('../webfonts/FreightTextProMedium-Italic.ttf') format('t../webfonts/ruetype'),
+        url('../webfonts/FreightTextProMedium-Italic.svg#FreightTextProMedium-Italic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FreightTextPro';
+    src: url('../webfonts/FreightTextProLight-Regular.eot');
+    src: url('../webfonts/FreightTextProLight-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../webfonts/FreightTextProLight-Regular.woff2') format('woff2'),
+        url('../webfonts/FreightTextProLight-Regular.woff') format('woff'),
+        url('../webfonts/FreightTextProLight-Regular.ttf') format('truetype'),
+        url('../webfonts/FreightTextProLight-Regular.svg#FreightTextProLight-Regular') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+/*========================== Basic css ============================*/
+* {
+    -webkit-font-smoothing: antialiased;
+}
+html {
+    /*font-size: 62.5%;*/
+    font-size: 0.521vw;
+}
+html,
+body {
+   overscroll-behavior-y: none;
+}
+
+:root {
+    scroll-behavior: unset;
+}
+
+html,
+body,
+header,
+footer,
+main,
+nav,
+section,
+div,
+menu,
+span,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+strong,
+i,
+ol,
+ul,
+li,
+form,
+label,
+button {
+    margin: 0;
+    padding: 0;
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+input:focus,
+textarea:focus,
+select:focus,
+button:focus,
+a:focus {
+    outline: none;
+}
+
+a {
+    text-decoration: none;
+    display: inline-block;
+    transition: 0.2s all ease;
+    -webkit-transition: 0.2s all ease;
+    -moz-transition: 0.2s all ease;
+}
+
+a:visited,
+a:hover,
+a:active {
+    text-decoration: none;
+}
+a:hover {
+    opacity: 0.5;
+}
+
+img {
+    max-width: 100%;
+}
+
+/* body */
+body {  
+    font-family: 'Adobe Caslon Pro';
+    font-size: 1.6rem;
+    font-weight: 400;    
+    background: #EAEAEE;
+    color: #1470AF; 
+}
+
+/* Title direction */
+h1,
+h2,
+h3,
+h4 {
+    font-family: 'FreightTextPro';
+}
+
+
+/*=========================== main_wrapper start =============================*/
+.main_wrapper {
+    overflow: hidden;
+    position: relative;
+}
+
+.container {
+    max-width: 173rem;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.header_part {
+    padding: 3.2rem 0;
+}
+
+.header_part a {
+    font-family: 'FreightTextPro';
+    font-size: 3.2rem;
+    font-weight: 500;
+    color: #1470AF;
+}
+
+.header_content1 {
+    max-width: 85rem;
+    width: 100%;
+    padding-top: 27rem;
+}
+
+.header_content1 h1 {
+    font-size: 4.48rem;
+    font-weight: 500;
+    color: #1470AF;
+    margin-bottom: 3.5rem;
+}
+
+.header_content1 h2 {
+    font-size: 4.48rem;
+    font-weight: 500;
+    color: #1470AF;
+    margin-bottom: 3.5rem;
+}
+
+.header_content1 p {
+    font-size: 2.4rem;
+    font-weight: 300;
+    color: #1470AF;
+    line-height: 1.6;
+    margin-bottom: 0;
+    margin-top: 2.4rem;
+}
+
+.header_content1 p a {
+    color: #1470AF;
+    border-bottom: 1px solid;
+    line-height: 0.75em;
+}
+
+.header_content2 {
+    max-width: 83.3rem;
+    width: 100%;
+    padding-top: 17rem;
+}
+
+.header_content2 h3 {
+    font-size: 6.4rem;
+    font-weight: 500;
+    color: #146BAD;
+    margin-bottom: 2.5rem;
+}
+
+.header_content2 h5 {
+    font-family: 'FreightTextPro';
+    font-size: 2.56rem;
+    font-weight: 500;
+    color: #146BAD;
+}
+
+.header_content2 h4 {
+    font-size: 3.52rem;
+    font-weight: 500;
+    color: #146BAD;
+    margin: 10rem 0 3.6rem;
+}
+
+.header_content2 p {
+    font-size: 2.4rem;
+    font-weight: 300;
+    color: #1470AF;
+    line-height: 1.6;
+    margin-bottom: 2.8rem;
+}
+
+.header_content2 h6 {
+    font-size: 1.92rem;
+    font-weight: 300;
+    color: #1470AF;
+    margin: 0;
+}
+
+.emma_part {
+    padding-top: 4.5rem;
+}
+
+.emma_right a {
+    font-family: 'FreightTextPro';
+    font-size: 3.52rem;
+    font-weight: 500;
+    color: #146BAD;
+    border-bottom: 1px solid;
+    line-height: 0.75em;
+    display: inline-block;
+    margin-top: 3.5rem;
+    transition: 0.2s all ease;
+}
+
+/* image popup */
+.popup {
+    margin: auto;
+    text-align: center
+}
+
+.popup img {
+    width: 100%;
+}
+
+.show {
+    z-index: 999;
+    display: none;
+    position: relative;
+}
+
+.show .overlay {
+    width: 100%;
+    height: 100%;
+    background: #0C0C0C;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+}
+
+.show .img-show {
+    width: 75%;
+    height: 95%;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    overflow: hidden;
+    text-align: center;
+}
+
+.overlay span {
+    font-size: 2.4rem;
+    color: #B6B6B6;
+    position: absolute;
+    top: 3rem;
+    right: 4rem;
+    z-index: 99;
+    cursor: pointer;
+}
+
+.img-show img {
+    max-width: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.circut_area {
+    padding-top: 14.5rem;
+}
+
+.circut_cnt {
+    max-width: 83.3rem;
+    width: 100%;
+}
+
+.circut_cnt h4 {
+    font-size: 3.52rem;
+    font-weight: 500;
+    color: #146BAD;
+}
+
+.circut_cnt p {
+    font-size: 2.4rem;
+    font-weight: 300;
+    color: #1470AF;
+    margin: 3.6rem 0 2.4rem;
+    line-height: 1.6;
+}
+
+.circut_cnt h6 {
+    font-size: 1.6rem;
+    font-weight: 300;
+    color: #1470AF;
+    margin: 0;
+}
+
+.circut_item {
+    padding-top: 11rem;
+}
+
+.circut_inner2 {
+    margin-top: 7rem;
+}
+
+.circut_inner2 a {
+    font-size: 3.5rem;
+    font-weight: 500;
+    color: #146BAD;
+    display: inline-block;
+    margin-top: 3.5rem;
+    transition: 0.2s all ease;
+    border-bottom: 1px solid;
+    line-height: 0.75em;
+}
+
+.wahine_area {
+    padding-top: 15rem;
+}
+
+.wahine_cnt h6 {
+    font-size: 1.92rem;
+}
+
+.reach_area {
+    padding: 25rem 0 27rem;
+}
+
+.reach_cnt {
+    max-width: 39.8rem;
+    width: 100%;
+}
+
+.reach_cnt h4 {
+    font-size: 4.48rem;
+    font-weight: 500;
+    color: #1470AF;
+    margin: 0;
+}
+
+.reach_cnt p {
+    font-size: 1.92rem;
+    font-weight: 300;
+    color: #1470AF;
+    line-height: 1.6;
+    margin-top: 3.6rem;
+}
+
+.reach_cnt ul li a {
+    font-family: 'FreightTextPro';
+    font-size: 2.56rem;
+    font-weight: 500;
+    color: #146BAD;
+    display: inline-block;
+    margin-top: 3.2rem;
+    border-bottom: 1px solid;
+    line-height: 0.75em;
+}
+
+.reach_item img {
+    width: 100%;
+}
+
+.reach_item p {
+    font-size: 1.92rem;
+    font-weight: 300;
+    color: #1470AF;
+    margin-top: 2rem;
+}
+
+.reach_item p a {
+    color: #1470AF;
+    border-bottom: 1px solid;
+    line-height: 0.75em;
+    font-style: italic;
+}
+
+/*========================= footer_area start ==========================*/
+.footer_area {
+    background: #FFFFFF;
+    padding: 7rem 0 10rem;
+    overflow: hidden;
+}
+
+.footer_left {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 2rem;
+}
+
+.footer_item a {
+    display: block;
+}
+
+.footer_item img {
+    width: 100%;
+}
+
+.footer_right p {
+    font-size: 1.92rem;
+    font-weight: 300;
+    color: #8EB6DC;
+    line-height: 1.6;
+    margin-bottom: 0.8rem;
+}
+
+.footer_right h4 {
+    font-family: 'FreightTextPro';
+    font-size: 3.52rem;
+    font-weight: 500;
+    color: #146BAD;
+    margin-top: 3.6rem;
+}
+
+.footer_right a {
+    font-family: 'FreightTextPro';
+    font-size: 3.52rem;
+    font-weight: 500;
+    color: #146BAD;
+    display: inline-block;
+    margin-top: 3.2rem;
+    border-bottom: 1px solid;
+    line-height: 0.75em;
+}
+
+.allwrap {
+    overflow: hidden;
+    position: relative;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: -19%;
+    right: 32%;
+    transform: rotate(38deg);
+    z-index: -9;
+}
+
+.wrap2 {
+    overflow: hidden;
+    position: relative;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: initial;
+    right: initial;
+    bottom: -78%;
+    left: -58%;
+    transform: rotate(24deg);
+    z-index: -9;
+}
+
+
+.sineCanvas {
+    width: 100vw!important;
+    height: 100vw!important;
+}
+
+.sineCanvas2 {
+    width: 100vw!important;
+    height: 100vw!important;
+}
